@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>ÖRNEK4</title>
+</head>
+
+<frameset rows="50%,50%">
+    <frameset cols="50%,50%">
+        <frame name="sol" src="sayfa1.htm" scrolling="yes">
+        <frame name="sag" src="sayfa2.htm" scrolling="yes">
+    </frameset>
+    <frame name="alt" src="sayfa3.htm" scrolling="no">
+</frameset

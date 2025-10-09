@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>ÖRNEK3</title>
+</head>
+<body>
+<div style="float:left; margin-right:20px;">
+<table border="1">
+  <tr>
+    <td colspan="3">A</td>
+    <td>D</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td>F</td>
+    <td>G</td>
+    <td>H</td>
+  </tr>
+  <tr>
+    <td>I</td>
+    <td>J</td>
+    <td>K</td>
+    <td>L</td>
+  </tr>
+</table>
+</div>
+
+<div style="float:left;">
+<table border="1">
+  <tr>
+    <td>A</td>
+    <td colspan="2"></td>
+    <td>D</td>
+  </tr>
+  <tr>
+    <td>E</td>
+    <td rowspan="2">F</td>
+    <td>G</td>
+    <td>H</td>
+  </tr>
+  <tr>
+    <td>I</td>
+    <td>K</td>
+    <td>L</td>
+  </tr>
+</table>
+</div>
+
+</body>
+</html>

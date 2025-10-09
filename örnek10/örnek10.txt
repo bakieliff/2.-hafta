@@ -1,0 +1,10 @@
+<body > 
+
+<marquee behavior="scroll" direction="up" scrolldelay="500" loop="2" style="border:dashed; 
+width:1000px; height: 500px"> 
+
+<a  href="http://www.karabuk.edu.tr">Karabük Üniversitesi </a> 
+
+</marquee> 
+
+</body> 
